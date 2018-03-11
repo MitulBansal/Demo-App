@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "name": "Mitul",
+      "employeeId": "145465656",
+      "domain": "OPI",
+      "address": "DELHI"
+    },
+    {
+      "name": "Sharon",
+      "employeeId": "1664656466",
+      "domain": "Shared Services",
+      "address": "NOIDA"
+    },
+    {
+      "name": "Nitin",
+      "employeeId": "176656896",
+      "domain": "TS",
+      "address": "GGN"
+    },
+    {
+      "name": "Neha",
+      "employeeId": "198767678",
+      "domain": "OPI",
+      "address": "GGN"
+    },
+    {
+      "name": "Nand",
+      "employeeId": "123444446",
+      "domain": "TS",
+      "address": "GGN"
+    },
+    {
+      "name": "Rupesh",
+      "employeeId": "18764544345",
+      "domain": "TS",
+      "address": "NOIDA"
+    },
+    {
+      "name": "Prabhjot",
+      "employeeId": "2342324324",
+      "domain": "TS",
+      "address": "GGN"
+    },
+    {
+      "name": "Rohit",
+      "employeeId": "555555575",
+      "domain": "TS",
+      "address": "DELHI"
+    },
+    {
+      "name": "Abe",
+      "employeeId": "125465656",
+      "domain": "TS",
+      "address": "GGN"
+    },
+    {
+      "name": "Steve",
+      "employeeId": "115465656",
+      "domain": "TS",
+      "address": "GGN"
+    },
+    {
+      "name": "Eryn",
+      "employeeId": "1545465656",
+      "domain": "TS",
+      "address": "Bangaluru"
+    },
+    {
+      "name": "Tom",
+      "employeeId": "1765465656",
+      "domain": "TS",
+      "address": "Hyderabad"
+    }
+  ]
+}

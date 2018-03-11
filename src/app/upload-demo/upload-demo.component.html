@@ -1,0 +1,9 @@
+<p-growl [value]="msgs"></p-growl>
+
+<h3>Basic</h3>
+<p-fileUpload mode="basic" name="demo[]" url="./upload.php" accept="image/*" maxFileSize="1000000" (onUpload)="onUpload($event)"></p-fileUpload>
+
+
+<h3>Basic with Auto</h3>
+<p-fileUpload #fubauto mode="basic" name="demo[]" url="./upload.php" accept="image/*" maxFileSize="1000000" (onUpload)="onUpload($event)" auto="true" chooseLabel="Browse"></p-fileUpload>
+

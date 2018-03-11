@@ -1,0 +1,27 @@
+<h3>Filtering</h3>
+<div class="ui-g ui-fluid">
+  <div class="ui-g-12 ui-md-4">
+    <input type="text" pInputText pKeyFilter="int" placeholder="Integers">
+  </div>
+  <div class="ui-g-12 ui-md-4">
+    <input type="text" pInputText pKeyFilter="num" placeholder="Numbers">
+  </div>
+  <div class="ui-g-12 ui-md-4">
+    <input type="text" pInputText pKeyFilter="money" placeholder="Money">
+  </div>
+  <div class="ui-g-12 ui-md-4">
+    <input type="text" pInputText pKeyFilter="hex" placeholder="Hex">
+  </div>
+  <div class="ui-g-12 ui-md-4">
+    <input type="text" pInputText pKeyFilter="alpha" placeholder="Alphabetic">
+  </div>
+  <div class="ui-g-12 ui-md-4">
+    <input type="text" pInputText pKeyFilter="alphanum" placeholder="Alphanumberic">
+  </div>
+  <div class="ui-g-12 ui-md-4">
+    <input type="text" pInputText [pKeyFilter]="blockSpecial" placeholder="Block < > * !">
+  </div>
+  <div class="ui-g-12 ui-md-4">
+    <input type="text" pInputText [pKeyFilter]="blockSpace" placeholder="Block space key">
+  </div>
+</div>
